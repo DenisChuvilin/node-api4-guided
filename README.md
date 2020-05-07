@@ -14,4 +14,4 @@ Please fork this repository and follow along **using your fork** as the instruct
 
 Deployment
  - make the PORT dynamic. Read the port from the environment. 
- - provide "start" script in `package.json` that uses  `node` to run the API. Heroku will run your application using `npm start`
+ - provide "start" script in `package.json` that uses  `node` to run the API. Heroku will run your application using `npm start`. 
